@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jsd6na9sc-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jsd6na9sc-dotnet-basic
